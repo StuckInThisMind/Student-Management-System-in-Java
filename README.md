@@ -1,7 +1,5 @@
 # Student-Management-System-in-Java
 
-You're right, my previous response wasn't formatted as Markdown. Here's the corrected version:
-
 ## Student Management System
 
 This repository implements a Java-based student management system with the following functionalities:
@@ -46,4 +44,3 @@ Fork the repository and submit pull requests with improvements, bug reports, or 
 * Enhancements like sorting, data validation, and error handling can be added.
 * Consider using a more efficient data structure for faster PRN-based retrieval.
 
-I hope this Markdown version effectively summarizes the code. Please let me know if you have any further questions.
